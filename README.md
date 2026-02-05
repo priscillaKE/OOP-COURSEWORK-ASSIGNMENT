@@ -87,6 +87,8 @@ java StudentRegistrationApp
 
 # 📋 Submission Checklist Alignment
 ✔ Java source files provided via GitHub
+✔ GUI screenshots (to be added in report)
+✔ Access database template included
 ✔ Documentation provided (this README)
 
 # Author
